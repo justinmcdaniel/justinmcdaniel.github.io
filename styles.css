@@ -5,30 +5,78 @@
 
 */
 
+html {
+    background:no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 body {
     background-color: #f6f6f4;
     font-family: Calibri;
     color: #222a35;
 }
 
-h1 {
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4em;
+    margin-top: 3em;
+    margin-bottom: 5em;
+}
+
+.identity {
+
+}
+
+.personal-name {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.professional-title {
+    font-size: 1.25em;
     text-align: center;
 }
 
 .flex-container {
     display: flex;
     justify-content: center;
-    background-color: #222a35;
+    margin: 5em;
 }
 
     .flex-container > div {
-        color: #f6f6f4;
-        width: 100px;
-        margin: 10px;
+        width: 1.15em;
+        height: 1.15em;
+        margin: 0.3em;
         text-align: center;
         line-height: 35px;
-        font-size: 30px;
+        font-size: 2em;
     }
+
+        .flex-container > div.icon {
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+        }
+
+        .flex-container > div.linkedin {
+            background-image: url("./img/linkedin_icon.svg");
+            overflow: visible;
+        }
+
+        .flex-container > div.twitter {
+            background-image: url("./img/Twitter_Social_Icon_Circle_Color.svg");
+            overflow: visible;
+        }
+
+        .flex-container > div.github {
+            background-image: url("./img/GithubIcon.svg");
+            overflow: visible;
+        }
 
 .footer-container {
     display: flex;
@@ -36,6 +84,5 @@ h1 {
 }
 
     .footer-container > div {
-        margin: 10px;
         text-align: center;
     }

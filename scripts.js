@@ -1,6 +1,6 @@
 (function () {
-    copyrightDateElement = document.getElementById("copyrightDate");
-    console.log(copyrightDateElement);
+    var copyrightDateElement = document.getElementById("copyrightDate");
+
     if (copyrightDateElement) {
         var now = new Date();
         copyrightDateElement.innerHTML += now.getFullYear();
