@@ -1,0 +1,14 @@
+/*
+    Primary dark-blue: #222a35
+    Primary light-blue: #90bfdc
+    Primary white: #f6f6f4
+
+*/
+
+body {
+    background-color: #f6f6f4;
+}
+
+h1 {
+    color: #222a35; 
+}
