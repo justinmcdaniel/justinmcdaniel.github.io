@@ -17,15 +17,17 @@ body {
     background-color: #f6f6f4;
     font-family: Calibri;
     color: #222a35;
+    max-width: 700px;
+    margin: auto;
 }
 
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 4em;
-    margin-top: 3em;
-    margin-bottom: 5em;
+    width: 15vw;
+    margin-top: 5vw;
+    margin-bottom: 7vw;
 }
 
 .identity {
@@ -33,47 +35,47 @@ body {
 }
 
 .personal-name {
-    font-size: 2em;
+    font-size: 10vw;
     font-weight: bold;
     text-align: center;
 }
 
 .professional-title {
-    font-size: 1.25em;
+    font-size: 5vw;
     text-align: center;
 }
 
 .flex-container {
     display: flex;
     justify-content: center;
-    margin: 5em;
+    margin: 7vw;
 }
 
-    .flex-container > div {
-        width: 1.15em;
-        height: 1.15em;
-        margin: 0.3em;
+    .flex-container > a > div {
+        width: 10vw;
+        height: 30vw;
+        margin: 3vw;
         text-align: center;
-        line-height: 35px;
-        font-size: 2em;
+        line-height: 35vw;
+        font-size: 20vw;
     }
 
-        .flex-container > div.icon {
+        .flex-container > a > div.icon {
             background-repeat: no-repeat;
             background-position: 50% 50%;
         }
 
-        .flex-container > div.linkedin {
-            background-image: url("./img/linkedin_icon.svg");
-            overflow: visible;
-        }
+    .flex-container > a > div.linkedin {
+        background-image: url("./img/linkedin_icon.svg");
+        overflow: visible;
+    }
 
-        .flex-container > div.twitter {
+        .flex-container > a > div.twitter {
             background-image: url("./img/Twitter_Social_Icon_Circle_Color.svg");
             overflow: visible;
         }
 
-        .flex-container > div.github {
+        .flex-container > a > div.github {
             background-image: url("./img/GithubIcon.svg");
             overflow: visible;
         }
