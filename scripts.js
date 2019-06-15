@@ -3,7 +3,7 @@
 
     if (copyrightDateElement) {
         var now = new Date();
-        copyrightDateElement.innerHTML += now.getFullYear();
+        copyrightDateElement.innerHTML = now.getFullYear();
     }
 
 })();
