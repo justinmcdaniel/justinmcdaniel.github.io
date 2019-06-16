@@ -47,6 +47,10 @@ a:active {
     height: 15vh;
 }
 
+.space-vh-20 {
+    height: 20vh;
+}
+
 .logo {
     height: 12vh;
     width: auto;
