@@ -31,6 +31,10 @@ a:active {
     text-decoration: none;
 }
 
+.space-vh-2 {
+    height: 2.5vh;
+}
+
 .space-vh-5 {
     height: 5vh;
 }
@@ -83,6 +87,11 @@ a:active {
 .icon-10 {
     height: 10vh;
     padding: 0.7em;
+}
+
+.find-me {
+    font-size: 2.5vh;
+    padding: 1vh;
 }
 
 .copyright {
