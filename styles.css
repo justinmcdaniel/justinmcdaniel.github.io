@@ -7,7 +7,7 @@
 
 body {
     background-color: #f6f6f4;
-    font-family: Calibri;
+    font-family: 'Open Sans', sans-serif;
     color: #222a35;
 }
 
@@ -39,6 +39,10 @@ a:active {
     height: 10vh;
 }
 
+.space-vh-12 {
+    height: 12.5vh;
+}
+
 .space-vh-15 {
     height: 15vh;
 }
@@ -53,12 +57,12 @@ a:active {
 }
 
 .personal-name {
-    font-size: 6.5vh;
+    font-size: 5vh;
     font-weight: bold;
 }
 
 .professional-title {
-    font-size: 3.5vh;
+    font-size: 3vh;
 }
 
 .icon-5 {
