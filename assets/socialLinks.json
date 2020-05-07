@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://www.linkedin.com/in/jwmcdaniel/",
+    "altText": "LinkedIn",
+    "imgSrc": "/assets/img/linkedin_icon.svg"
+  },
+  {
+    "url": "https://twitter.com/jmcdanielSEA",
+    "altText": "Twitter",
+    "imgSrc": "/assets/img/Twitter_Social_Icon_Circle_Color.svg"
+  },
+  {
+    "url": "https://github.com/justinmcdaniel",
+    "altText": "Github",
+    "imgSrc": "/assets/img/GithubIcon.svg"
+  }
+]
