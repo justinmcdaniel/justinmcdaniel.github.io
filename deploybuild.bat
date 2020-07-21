@@ -9,6 +9,6 @@ del %localDir%*.ico
 del %localDir%*.css
 
 robocopy "%escLocalDir%build\\" "%escLocalDir%" /s /e
-cp "%escLocalDir%index.html" "%escLocalDir%404.html"
+copy "%escLocalDir%index.html" "%escLocalDir%404.html"
 
 PAUSE
