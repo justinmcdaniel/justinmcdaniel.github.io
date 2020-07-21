@@ -1,0 +1,135 @@
+{
+  "title": "Hi! I'm Justin!",
+  "photoUrl": "",
+  "pdfDownloadUrl": "",
+  "statement": "I am a <span class='bold'>Game Developer</span>. I command the forces of electricity through code to conjure new worlds and experiences. My mission is to bring joy and wonder to all peoples through the medium of video games.",
+  "location": "Seattle, Washington",
+  "websiteLink": {
+    "text": "justinmcdaniel.com",
+    "url": "https://www.justinmcdaniel.com"
+  },
+  "twitterLink": {
+    "text": "@jmcdanielSEA",
+    "url": "https://twitter.com/jmcdanielSEA"
+  },
+  "linkedInLink": {
+    "text": "Profile",
+    "url": "https://www.linkedin.com/in/jwmcdaniel"
+  },
+  "proficiencies": {
+    "col1": [
+      {
+        "category": "Unity",
+        "items": [ "C#", "2D Pipeline", "Unity IAP", "PlayFab Integration", "Wwise Integration", "Facebook Analytics" ]
+      },
+      {
+        "category": "Unreal",
+        "items": [ "Blueprint", "UMG", "Animation (State Machines, Events, Blend Spaces)", "FMOD Integration" ]
+      },
+      {
+        "category": "PlayFab",
+        "items": [ "Authentication", "Leaderboards", "CloudScript", "In-App Purchase", "PlayStream" ]
+      }
+    ],
+    "col2": [
+      {
+        "category": "Front-End",
+        "items": [ "Javascript", "Angular", "CSS/LESS", "Bootstrap", "Typescript" ]
+      },
+      {
+        "category": "Back-End",
+        "items": [ "C#", "SQL", "ASP.NET MVC", "ASP.NET Web API", "SQL Server Reporting Services (SSRS)" ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Scalisco",
+      "positions": [
+        {
+          "title": "Game Developer",
+          "startDate": "2019-10-15T00:00:00.000Z",
+          "endDate": "2020-04-15T00:00:00.000Z",
+          "type": "FTE"
+        }
+      ],
+      "description": "Game Developer on <a target='_blank' href='https://www.rescuepets.site/'>Rescue Pets</a>: a casual, 2D mobile game made with Unity and released on Android and iOS.",
+      "skills": [ "C#", "Unity (2D Pipeline)", "PlayFab (Authentication, Leaderboards, CloudScript, In-App Purchase, PlayStream)", "Facebook Analytics API" ],
+      "tags": [ "game", "unity" ]
+    },
+    {
+      "company": "Prism Systems, Inc.",
+      "positions": [
+        {
+          "title": "Senior Software Developer (Remote)",
+          "startDate": "2015-06-15T00:00:00.000Z",
+          "endDate": "2019-03-15T00:00:00.000Z",
+          "type": "FTE"
+        },
+        {
+          "title": "Software Developer (On-Site)",
+          "startDate": "2012-06-15T00:00:00.000Z",
+          "endDate": "2013-06-15T00:00:00.000Z",
+          "type": "FTE"
+        }
+      ],
+      "description": "Designed, developed, and maintained custom data collection and reporting software for third party clients.",
+      "skills": [ "C#", "SQL", "ASP.NET MVC 3", "Angular JS", "Bootstrap 3", "ASP.NET Web API 2", "SQL Server Reporting Services (SSRS)", "OSIsoft PI Programming", "SQL Server", "Javascript", "jQuery", "HTML5", "KnockoutJS", "WCF Services", ".NET Mobile Framework 3.5" ],
+      "tags": [ "general" ]
+    },
+    {
+      "company": "ShipConstructor Software USA, Inc.",
+      "positions": [
+        {
+          "title": "Software Developer",
+          "startDate": "2011-02-15T00:00:00.000Z",
+          "endDate": "2012-05-15T00:00:00.000Z",
+          "type": "FTE"
+        }
+      ],
+      "skills": [ "C#", "SQL", ".NET Win Forms", "SQL Server", "Microsoft Office .NET API", "AutoCAD C# API" ],
+      "tags": [ "general" ]
+    },
+    {
+      "company": "Center for Advanced Public Safety (CAPS)",
+      "positions": [
+        {
+          "title": "Software Developer / Analyst",
+          "startDate": "2010-06-15T00:00:00.000Z",
+          "endDate": "2011-02-15T00:00:00.000Z",
+          "type": "FTE"
+        },
+        {
+          "title": "Student Developer (Part-Time)",
+          "startDate": "2007-01-15T00:00:00.000Z",
+          "endDate": "2010-05-15T00:00:00.000Z",
+          "type": "PTE"
+        }
+      ],
+      "skills": [ "C#", "SQL", "ASP.NET Web Forms", "Javascript", "jQuery", "SQL Server", "Infragistics ASP.NET Controls", "Adobe Flex Builder", "ActionScript", "HTML", "CSS" ],
+      "tags": [ "general" ]
+    }
+  ],
+  "achievements": [
+    {
+      "date": "2009-12-15T00:00:00.000Z",
+      "title": "B.S. in Computer Science",
+      "subtitle": "The University of Alabama"
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "title": "Relocated to Texas State",
+      "subtitle": ""
+    },
+    {
+      "date": "2018-04-15T00:00:00.000Z",
+      "title": "Relocated to Washington State",
+      "subtitle": ""
+    },
+    {
+      "date": "2019-05-15T00:00:00.000Z",
+      "title": "Community Choice Award",
+      "subtitle": "Games For Our Future Game Jam x Seattle Indies x Pacific Science Center"
+    }
+  ]
+}
