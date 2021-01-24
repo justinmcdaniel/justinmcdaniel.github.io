@@ -19,26 +19,26 @@
   "proficiencies": {
     "col1": [
       {
-        "category": "Unity",
-        "items": [ "C#", "2D Pipeline", "Unity IAP", "PlayFab Integration", "Wwise Integration", "Facebook Analytics" ]
-      },
-      {
-        "category": "Unreal",
-        "items": [ "Blueprint", "UMG", "Animation (State Machines, Events, Blend Spaces)", "FMOD Integration" ]
-      },
-      {
-        "category": "PlayFab",
-        "items": [ "Authentication", "Leaderboards", "CloudScript", "In-App Purchase", "PlayStream" ]
-      }
-    ],
-    "col2": [
-      {
         "category": "Front-End",
         "items": [ "Javascript", "Angular", "CSS/LESS", "Bootstrap", "Typescript" ]
       },
       {
         "category": "Back-End",
-        "items": [ "C#", "SQL", "ASP.NET MVC", "ASP.NET Web API", "SQL Server Reporting Services (SSRS)" ]
+        "items": [ "C#", "SQL", "ASP.NET Core", "ASP.NET MVC", "SQL Server Reporting Services (SSRS)" ]
+      },
+      {
+        "category": "Tools",
+        "items": [ "VSCode", "Visual Studio", "SQL Server", "Windows", "macOS", "Linux", "Android", "iOS"]
+      }
+    ],
+    "col2": [
+      {
+        "category": "Unity",
+        "items": [ "C#", "2D Pipeline", "Unity IAP", "PlayFab", "Wwise", "Facebook Analytics" ]
+      },
+      {
+        "category": "Unreal",
+        "items": [ "Blueprint", "C++", "UMG", "Animation (State Machines, Events, Blend Spaces)", "Automation Testing", "FMOD" ]
       }
     ]
   },
@@ -47,13 +47,13 @@
       "company": "Scalisco",
       "positions": [
         {
-          "title": "Game Developer",
+          "title": "Software Developer",
           "startDate": "2019-10-15T00:00:00.000Z",
           "endDate": "2020-04-15T00:00:00.000Z",
           "type": "FTE"
         }
       ],
-      "description": "Game Developer on <a target='_blank' href='https://www.rescuepets.site/'>Rescue Pets</a>: a casual, 2D mobile game made with Unity and released on Android and iOS.",
+      "description": "Developer for <a target='_blank' href='https://www.rescuepets.site/'>Rescue Pets</a>: a casual, 2D mobile game made with Unity and released on Android and iOS.",
       "skills": [ "C#", "Unity (2D Pipeline)", "PlayFab (Authentication, Leaderboards, CloudScript, In-App Purchase, PlayStream)", "Facebook Analytics API" ],
       "tags": [ "game", "unity" ]
     },
